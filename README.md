@@ -1,6 +1,7 @@
 # 박정수 이력 
-E-mail : soul9862@gmail.com
-
+E-mail : soul9862@gmail.com  
+youtube : https://www.youtube.com/channel/UC5owl89sJZ6o9W6omYghikA  
+kaggle : https://www.kaggle.com/soul9862  
 
 ### 건설회사 사이트
 https://github.com/Dexter0526/web_back-end_project_v2.00  
@@ -15,10 +16,6 @@ https://github.com/Dexter0526/noname_movie
 ### 텐서플로우 가이드
 https://github.com/Dexter0526/tf_tutorials  
 환경 : anaconda(python)  
-#
-
-### 캐글
-https://www.kaggle.com/soul9862  
 #
 
 ### 알고리즘
