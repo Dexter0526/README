@@ -1,4 +1,5 @@
 # 박정수 이력 
+
 E-mail : soul9862@gmail.com  
 youtube : https://www.youtube.com/channel/UC5owl89sJZ6o9W6omYghikA  
 kaggle : https://www.kaggle.com/soul9862  
