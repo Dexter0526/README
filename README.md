@@ -12,7 +12,7 @@ kaggle : https://www.kaggle.com/soul9862
 ### 온라인 전시장
 https://k-marine.org/  
 환경 : spring boot, nodejs, aws  
-역할 : PL  
+역할 : PL & 풀스택  
 #
 
 ### 스마트워크
