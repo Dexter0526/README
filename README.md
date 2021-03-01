@@ -4,6 +4,24 @@ E-mail : soul9862@gmail.com
 youtube : https://www.youtube.com/channel/UC5owl89sJZ6o9W6omYghikA  
 kaggle : https://www.kaggle.com/soul9862  
 
+### 사내 근태관리 웹 어플리케이션(진행중)
+https://k-marine.org/  
+환경 : spring boot, nodejs, naver cloud
+역할 : 백엔드  
+#
+
+### 온라인 전시장
+https://k-marine.org/  
+환경 : spring boot, nodejs, aws
+역할 : PL  
+#
+
+### 스마트워크
+https://varlos-smartwork.com/  
+환경 : spring boot, nodejs, aws
+역할 : 풀스택  
+#
+
 ### 건설회사 사이트
 https://github.com/Dexter0526/web_back-end_project_v2.00  
 환경 : java, spring  
