@@ -4,8 +4,7 @@ E-mail : soul9862@gmail.com
 youtube : https://www.youtube.com/channel/UC5owl89sJZ6o9W6omYghikA  
 kaggle : https://www.kaggle.com/soul9862  
 
-### 사내 근태관리 웹 어플리케이션(진행중)
-https://k-marine.org/  
+### 사내 근태관리 웹 어플리케이션(진행중)  
 환경 : spring boot, nodejs, naver cloud
 역할 : 백엔드  
 #
